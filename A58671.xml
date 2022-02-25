@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A timely warning to rash and disobedient persons: or, A strange and wonderful relation of a young gentleman that sold himself to the devil for twelve years to have power of being revenged on his father and mother, and now his time being expired, he lies in a sad and deplorable condition, to the amazement of all spectators. With the substance of a sermon upon this unhappy accident; also a prayer for the grace of God against temptation. By D. S. And now published as a monument of divine vengrance, to drive hard-harted and stubborn sinners to a speedy repentance.</title>
+            <author>D. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58671</idno>
+            <idno type="STC">Wing S14</idno>
+            <idno type="STC">ESTC R219781</idno>
+            <idno type="EEBO-CITATION">99831228</idno>
+            <idno type="PROQUEST">99831228</idno>
+            <idno type="VID">35691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58671)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35691)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2040:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A timely warning to rash and disobedient persons: or, A strange and wonderful relation of a young gentleman that sold himself to the devil for twelve years to have power of being revenged on his father and mother, and now his time being expired, he lies in a sad and deplorable condition, to the amazement of all spectators. With the substance of a sermon upon this unhappy accident; also a prayer for the grace of God against temptation. By D. S. And now published as a monument of divine vengrance, to drive hard-harted and stubborn sinners to a speedy repentance.</title>
+                  <author>D. S.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.O. for E. Brooksby, in Pye-corner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title-page woodcut.</note>
+                  <note>Place of publication from and date conjectured by Wing.</note>
+                  <note>Caption title on p. 9 reads: The substance of a sermon, very suitable upon the foregoing occasion, to warm us to flee temptation, and speedily turn to the Lord.</note>
+                  <note>Cropped at head, affecting pagination.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35691:1" rendition="simple:additions"/>
+            <p>A Timely WARNING TO Raſh and Diſobedient PERSONS: OR, A Strange and Wonderful Relation of a young Gentleman that ſold himſelf to the Devil for twelve Years to have Power of being Revenged on his Father and Mother; and now his time being Expired, he lies in a ſad and deplorable Conditon, to the Amaze<g ref="char:EOLhyphen"/>ment of all Spectators. With the Subſtance of a Sermon upon this un<g ref="char:EOLhyphen"/>happy Accident; alſo a Prayer for the Grace of God againſt Temptation. By <hi>D. S. And now Publiſhed as a Monument of Divine Vengeance, to drive Hard-harted and Stub<g ref="char:EOLhyphen"/>born
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as to a ſpeady Repentance.</hi>
+            </p>
+            <figure/>
+            <p>Printed by <hi>W. O.</hi> for <hi>E. Brookſby,</hi> in
+<hi>Pye-corner.</hi>
+            </p>
+            <pb facs="tcp:35691:2" rendition="simple:additions"/>
+            <pb facs="tcp:35691:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="warning">
+            <pb facs="tcp:35691:3"/>
+            <head>
+               <hi>A Timely WARNING TO</hi> Raſh and diſobedient Perſons.</head>
+            <p>HOw dreadful and amazing the fatal Conſequences of Malice and Revenge have proved to thoſe that have un<g ref="char:EOLhyphen"/>luckily harboured them in their Boſoms, no Age has been ignorant of; nor has ſad and fearful Examples been wanting, as Witneſſes of God's Wrath and Indignation againſt da<g ref="char:EOLhyphen"/>ring Sinners, by ſuffering them to fall in the Snares they have laid for others; for to what prodigious Slanders, Abuſes, Rapes, Murthers, and all manner of ſuch like Evils have unruly Paſſion carried ſome Men and Women, for which, in fine, themſelves have ſuffered Shame Puniſhment and untimely Death! But among the many that have created Trembling and Horror in the Minds of good Chriſtians, what we are now about to relate, may even ſtartle the Reader, to think that ſuch a Temptation ſhould take place.</p>
+            <p>In a ſmall Town near <hi>Portſmouth,</hi> there li<g ref="char:EOLhyphen"/>ved a wealthy Gentleman, having got an Eſtate by his Labour and Induſtry; but amongſt his Fortunes had the Misfortune, as many indul<g ref="char:EOLhyphen"/>gent Parents have met withal, to have an Un<g ref="char:EOLhyphen"/>dutiful and Extravant Son; and though he was tender over him, yet in the end, his rei<g ref="char:EOLhyphen"/>terated <pb n="3" facs="tcp:35691:3"/>Affronts, Abuſes, and Debaucheries, began to leſſon the Father's Affection, and cau<g ref="char:EOLhyphen"/>ſed him to hold his Hand from ſupplying him with Mony as formerly: This incenſed the Son, and made him fly out into unatural Expreſſions againſt his Father, and reſolving upon Revenge, ſtudied many ways, but thro' his Father's Caution, and the Hand of Divine Providence, they took no Effect: Then he ap<g ref="char:EOLhyphen"/>plied himſelf to his Mother, who in Hopes of his reclaiming and returning to the Rules of Duty and Obedience, her Fondneſs conſtrain'd her to ſupply him (unknown to his Father) with Mony and Credit; but finding this ra<g ref="char:EOLhyphen"/>ther proved as Fuel to continue and increaſe the Flame of his Luſts and Exceſs, ſhe grew weary of taking any further Care to ſupply him with Mony: but however, ſpared not to give good Admoniſhment, and with Tears to intreat him to take up, and not to be a Scandal and Grief to her and his Father.</p>
+            <p>This proved but Oyl thrown into the Flame and made him break out into Curſes and Exe<g ref="char:EOLhyphen"/>crations, yet ſhe gave not ſo over, but ſet many of her Neighbours and Relations to ſee if they could perſwade him to a better Tem<g ref="char:EOLhyphen"/>per; but their Sollicitations proved as ſuc<g ref="char:EOLhyphen"/>ceſſeſs, and he was given over as a loſt young Reprobate, which too fatally proved true, as
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Sequel will appear; for altho' he was <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o obſtinate, yet when Neceſſity pinched him, <pb n="4" facs="tcp:35691:4"/>he was conſtrained to come to his Father's Houſe, where free Entertainment for Diet and Lodging was not denied him: when on a Day being at Dinner, he asked his Father to let him have ten Pounds to pay off a Debt, for which he fear'd to be arreſted: But he refuſing, he ſtarted up, and went away in a great Huff, vowing to be revenged for that Denial, at the Hazard of Body and Soul. This made the aged People weep, and condole their Mis<g ref="char:EOLhyphen"/>fortunes, and wiſh that all People would be warned, and not appear too fond and indulgent of their Children in their Minority, but keep a ſtrict Hand over them, to prevent their Ru<g ref="char:EOLhyphen"/>ine when they grow in Years.</p>
+            <p>This Graceleſs Son, upon his Departure, went to a Quack-pretender to Aſtrology, to have his Father's Nativity caſt, thereby to know how long he ſhould live; who told him a very plaucible Story, after he had erected his <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ample: but to as much Purpoſe, <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> old Man
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Mountebank for his D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath, which put <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> into a great Fret<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and that being over, he fell into a deep Melancholly, which laſted many Days; in which time, he owned the Devil tempted him to kill his Father and Mother; and tho' he ſtarted at firſt at ſo bloody and barbarous a Suggeſtion, yet he had it ſeveral times after in his Thoughts, and laid ſome Projects to effect
+<pb n="5" facs="tcp:35691:4"/>it; and once he let go the Cock of a Piſtol at his Father, but it miſſed Fire: And as theſe Thoughts of Miſchief were in his Head, and was beating his Brains, he had Notice that he had diſinherited him for the laſt violent At<g ref="char:EOLhyphen"/>tempt, and ſetled his Eſtate upon his Daugh<g ref="char:EOLhyphen"/>ter, the Siſter of this Extravagant. This enra<g ref="char:EOLhyphen"/>ged him more and more, and now nothing but the bloodieſt Revenge he could ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in his Mind fitted his Temper; when one Evening in his Cloſet, at a Lodging
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had taken, muſing on theſe Matters, and verily conceived he was awake, a very fair and proper Woman, to out<g ref="char:EOLhyphen"/>ward Appearance, entred his Chamber, and gave a Rap or two at his Cloſet-door, which he opened, and was at firſt ſtartled; but then thinking it might be ſome Gentlewoman that lodged in the Houſe, he began to complement her, and in the end they fell into Diſcourſe, the ſuppoſed Lady earneſtly preſſing<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him to know the Cauſe of his Melancholly; which he, out of Baſhfulneſs, for a time declined; but being more eag<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rly preſſed, he told her, he was born to a good Eſtate, and was brought up like a Gentleman; but having a covetous niggardly Father, he denied him a Competen<g ref="char:EOLhyphen"/>cy to maintain him ſuitable to his Education, and ſeveral other Paſſages; and that now he had utterly barred him of the Hope he had to live well after his Death, in ſetling his E<g ref="char:EOLhyphen"/>ſtate on another, which had much perplexed <pb n="6" facs="tcp:35691:5"/>his Spirits, and almoſt diſtracted him. To which the Female Shape replyed with a ſmile, That if that was all, his loſs ſhould be repair<g ref="char:EOLhyphen"/>ed, if he would follow the Advice that ſhould be given; and that he ſhould be revenged of the Injury done him, upon thoſe that had done it.</p>
+            <p>This Diſcourſe could not but Amaze the un<g ref="char:EOLhyphen"/>happy young Man, to think what it might tend to, and made him inquiſitive who this new Ac<g ref="char:EOLhyphen"/>quaintance might be; but ſhe refuſed to re<g ref="char:EOLhyphen"/>ſolve him, forbidding him to make further en<g ref="char:EOLhyphen"/>quiry; and to ſhow it a deſign in earneſt, clap<g ref="char:EOLhyphen"/>ed a Purſe of Gold into his Hand, and a Diamond Ring on his Finger; which ſo overjoy'd him, that in a fatal Hour, he raſhly declared, he would do whatever ſhe deſired with his Body and Soul. And here they ſtruck a fatal Bargain, That ſhe would maintain him in all manner of Splender, and help him to be revenged on his Enemies for the ſpace of twelve Years, if after that, he would go with her whither ſhe would car<g ref="char:EOLhyphen"/>ry him. This, after ſome pauſe, he promi<g ref="char:EOLhyphen"/>ſed; then ſhe ſhewed him a Cabinet full of Diamonds, Rubies, Pearls, and Gold; and withal, bid him Write and Sign the Con<g ref="char:EOLhyphen"/>tract in a few Words, and ſhe would deſire no Witneſs, charging him to be private in the Buſineſs.</p>
+            <p>This he did, though (as he confeſſed) his <pb n="7" facs="tcp:35691:5"/>Hand and Heart trembled, and he felt an un<g ref="char:EOLhyphen"/>uſual reluctancy of Mind: However, the dark Project went on, and ſhe carried away the Writing; yet he ſaid, when he had ſlept and waked again, he took all as if it had paſſed by the way of a Dream; and indeed, Satan, the great Deceiver, had deluded him; for the Treaſure he thought he had in Poſſeſſion, was Fantaſtical, or Imaginary; and he had that way, no doubt, been impoſed on with ſeem<g ref="char:EOLhyphen"/>ing Riches by him, who can at Will, turn his own dreadful Form into that of an Angel of Light: This ſtartled him, and he could not well perſwade himſelf of the Truth of what had paſſed, but ſuſpected, whether he was in his right Wits or not; yet going abroad the next Day, he found a real Purſe of Gold, and in it a Diamond Ring, and ſome Stones of great Price, and this he concluded to be the Succeſs of his Agreement, and diſputed not further the Matter at that time; but getting into a Gang of Gameſters, he continued to encreaſe his Store, and lived in all manner of Riot and Debauchery; yet nothing could put his Father's laſt Act out of his Mind, and he ſtudied daily to be revenged; and at length the old Man was taken with a pining Diſeaſe of which he grievouſly languiſhed, and moſt were of Opinion, he was Bewitched: The Mother was taken with an unuſual Palſie; their Cattle and Poultry died ſtrangely; and laſtly, the Fa<g ref="char:EOLhyphen"/>ther, <pb n="8" facs="tcp:35691:6"/>after a long Sickneſs, gave up the Ghoſt.</p>
+            <p>The Son all this while flouriſhed to outward Appearance, chiefly by Gaming, in which he had prodigeous Succeſs, contrary to what he was wont; ſo that the Devil, no doubt, help<g ref="char:EOLhyphen"/>ing his Servant, People wondered how they came by it, and gave various Cenſures: But the twelve Years growing to an end, he fell into an unaccountable Melancholly, and would often burſt into Tears; fearful to be alone; and found ſuch a Hell of Horrour in his Mind that he wiſhed for Death: But being deſired by ſome Friends to pray, he told them his He<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t was ſo hardned, he could not; and although he was prayed with, yet he minded it not, but frightfully caſt his Eyes about, as if ſome fearful Apparition had been near; and once in the Agony of his Mind, attempt<g ref="char:EOLhyphen"/>ed to hang himſelf; and ſo continued, t<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ng what he knew of this Matter, till the time as near as he could compute was expired; when in the Night-time, there aroſe ſuch a Storm of Wind, Lightning, Thunder, and Rain, as frighted moſt People; and the Roof of the Houſe where he lay being ſplit in ſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>der, his Body was rent in a fearful manner and turned black, as if ſcorched with Fire and having lain ſome time to the Aſtoniſhment of many Spectators, was privately Intered: And may this be a Warning to wicked Livers</p>
+         </div>
+         <div type="sermon">
+            <pb n="9" facs="tcp:35691:6"/>
+            <head>The Subſtance of a SERMON, Very ſuitable upon the foregoing Occaſion, to warm us to flee Temptation, and ſpeedi<g ref="char:EOLhyphen"/>ly turn unto the Lord.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>James 1. Ver. 13.14, 15.</hi>
+                  </bibl>
+                  <p>Let no Man ſay when he is tempted, I am tempted of God, for God cannot be tempted with Evil, neither tempteth he any Man: But every Man is tempted when he is drawn away of his own Luſts, and inticed: Then when Lust hath con<g ref="char:EOLhyphen"/>ceived, it bringeth forth Sin; and Sin when it is finiſhed, bringeth forth Death.</p>
+               </q>
+            </epigraph>
+            <p>IT is undoubtedly for Man's Sins, that the power of Darkneſs is permitted to go up and down like a roaring Lyon, ſeeking whom he may Devour; and that he prevails againſt the Souls of the Sons of Men, otherways precious in the ſight of their Maker: It is for Sin that God gives us up to ſhame and reproach to raſhneſs and diſpair of his Mercys; for certain it is, God never leaves nor forſakes us, till our offend<g ref="char:EOLhyphen"/>ing the Divine Majeſty of Heaven, makes him turn away his aimable
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes, and leave our Souls eclipſed, under the power of an implacable Enemy, who being and Immortal Spirit, too ſubtil for Mortals to con<g ref="char:EOLhyphen"/>tend with, unleſs ſupported by the Divine Hand, we are unable to reſiſt his Temptations, which he guilds over like bitter potions, that we may ſwallow them the more ſecurely, and ſtudies to ſuit them to our In<g ref="char:EOLhyphen"/>clination: To the cholerick fiery S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirit, he repre<g ref="char:EOLhyphen"/>ſents Reveng and Blood ſhed, bold and brave. To <pb n="10" facs="tcp:35691:7"/>the Sanguine Carnal, Luſts, and Luxury, as Generous and Jovial. To the Flegmatick, Laſineſs and S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oath; and to the Melancholly, Envy and Diſpair. The moſt experienced Angler has not half ſo many baits and ſlights to intrap the unthinking watery
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry, as this grand Deceiver has to intrap the Souls of Men, that are ſo proud of being Rational. We find that he durſt, even in the Preſence of the Almighty, be ſo bold to demanded a Commiſſion to tempt righteous <hi>Job,</hi> and had, no doubt, prevailed againſt him, had not an Almighty Hand ſuſtain'd him; as you may find it more at large, in the firſt and ſecond Chapters of that Book: Nay, more tranſcendent than this, he durſt to tempt even the Lord his God, when he car<g ref="char:EOLhyphen"/>ried him up into an exceeding high Mountain, and ſhewed him all the Kingdoms of the Earth, and the Glories thereof, promiſing to give them, if our bleſ<g ref="char:EOLhyphen"/>ſed Saviour would fall down and worſhip him; and had a Lye immediately prepared, if there had been a poſſibility of its taking place:
+<hi>For that</hi> (continues he) <hi>is delivered to me, and to whoſoever I will <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> give it:</hi> But here he was Repulſed, with a <hi>Get thee bind me Sa<g ref="char:EOLhyphen"/>tan, for it is written, Thou ſhalt Worſhip the Lord thy God, and him only ſhalt thou ſerve,</hi> Luke 4, <hi>&amp;c.</hi>
+            </p>
+            <p>If St. <hi>Paul,</hi> who was endued with the moſt excel<g ref="char:EOLhyphen"/>lent Spirit of Wiſdom, was not proof againſt his Temp<g ref="char:EOLhyphen"/>tation, with ſtrong Prayer and Cries, when he ſent a Meſſenger to Buffet him, <hi>a Thorn in the Fleſh,</hi> as him<g ref="char:EOLhyphen"/>ſelf terms it; what can we that dare not pretend to ſo great a portion of immediate Inſpiration do to reſiſt him, <hi>in whom</hi> (as the Pſalmiſt ſay) <hi>is our help?</hi> Why truly, our help is in the Lord; 'tis he alone that can deliver out of the Paws of the Spiritual Lion, and Bear. He is come to us in great Wrath, becauſe he has but a ſhort time; and is ſo implacable an Enemy to the Soul, that where his force is baffled, fallacies, <pb n="11" facs="tcp:35691:7"/>deluſions, and ſubtil underminings, frequently take place; and ſo far we find his malice to extend, that when he was compelled to depart out of the poſſeſſed Perſon, that his hand might not be out in doing Miſ<g ref="char:EOLhyphen"/>chief, begged earneſtly to enter into a ſimple Herd of Swine, whom he as maliciouſly deſtroyed.</p>
+            <p>Let us then, to be ſafe from his Temptations, ſo as they may not bring us to ſhame in this World, and endleſs Miſery in the next, lay hold on him that is Mighty, and able to ſave to the utmoſt, all thoſe that by Faith and true Repentance draw near unto him: Let us lay hold on the Rock of Ages, and build a ſure Foundation upon this Mercy and Goodneſs; for
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he alone can deliver us from Everlaſting Death, and defeat the cruel deſigns of the Deſtroyer of Souls. Had this unadviſed Perſon made God his Refuge, he had not been, as now we ſadly fear he is, ſuffering under the Almighty Uengeance; though it is not for us to dare ſo much as poſitively to limit the Mercies of God even to the worſt of Sinners, but we muſt ſubmit them to his will and pleaſure, whoſe Mercies are over all the works of his Creation: Sometimes we may be tempted for our good, which is the tryal of our Faith and Perſeverance; for
+<hi>Bleſſed</hi> (ſaith St. <hi>James</hi>) <hi>is the Man that endureth Temptation, for when he is Tryed he ſhall receive the Crown of Life, which the Lord hath promiſed to them that love him. Let no man ſay when he is tempted, I am tempted of God, for God cannot be tempted with Evil, neither tempteth he any Man, but every Man is tempted, when he is drawn away of his own Luſts, and inticed: then when Lust hath conceived, it bringeth forth Sin; and Sin, when it is finiſhed, bring<g ref="char:EOLhyphen"/>eth forth Death,</hi> James 1.12, 13, 14,
+15.</p>
+            <p>Thus we ſee 'tis the depravity of Man's Nature and wicked Inclinations, that gives Satan the advan<g ref="char:EOLhyphen"/>tage over him, to ſnare and intrap his Soul, to rob <pb n="12" facs="tcp:35691:8"/>him of Glory, Bliſs, and Immortality, to which he was born an Heir, and has a Title to be Co-heir with the Lord of Life. Let us be fervent in Prayer then, leaſt we enter into Temptation, as this deplo<g ref="char:EOLhyphen"/>rable Wretch did: Let us put on the Armour of God in Righteouſneſs, the Shield of Faith, and the Hel<g ref="char:EOLhyphen"/>met of Salvation, that ſo we may quench the fiery Darts of our Enemy: Let us but reſiſt the Devil as we ought, and we have a warrant that he will flee from us: Let us put away Wrath, Envy, and Re<g ref="char:EOLhyphen"/>venge, Love our Parents, and Reverence our Supe<g ref="char:EOLhyphen"/>tiours, be watchful over our Souls, and live not in <hi>Rioting and Drunkenneſs, Chambering, and Wanton<g ref="char:EOLhyphen"/>neſs; but put on the Lord Jeſus; and take no care for the Fleſh, to fulfil the Luſts thereof:</hi> Which that we may all do, and ſo be happy, God of his infinite Mercy grant through the Merits and Meditation of our bleſſed Saviour and Redeemer. <hi>Amen, Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer against Temptation.</head>
+            <p>Lord, in whom alone is our Strength and Trust, migh<g ref="char:EOLhyphen"/>tily defend us, we beſeech thee, from our Spiritual Enemy, that he may get no Advantage over us; keep us in perpetual Safety under the Shadow of thy Wings, that no Tribulation, Diſcontent, Fears, or Afrightments, may make us fall from thee. Arm us with Spiritual Weapons, that we may be able to repel the fiery Darts of the Ad<g ref="char:EOLhyphen"/>verſary; and at last having overcome, may receive the immortal Crown of Glory, which thou hast prepared for all them that love and fear thee: And ſince thy Son came to deſtroy the Works of the Devil, l<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Kingdom of Darkneſs fall before <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Satan fell, like Lightning that thy Scepter of Righteouſneſs may be eſtabliſhed for ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35691:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
